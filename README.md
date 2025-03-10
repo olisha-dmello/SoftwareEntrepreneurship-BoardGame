@@ -1,6 +1,6 @@
 # Software Entrepreneurship - Board Game
 
-# A Lag in Time
+# Title: A Lag in Time
 Jan 2025 - Feb 2025
 
 - Designed and developed a fully functional narrative-driven cooperative board game
