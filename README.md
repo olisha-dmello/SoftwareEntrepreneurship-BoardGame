@@ -1,1 +1,1 @@
-# SoftwareEntrepreneurship-BoardGame
+# Software Entrepreneurship - Board Game
