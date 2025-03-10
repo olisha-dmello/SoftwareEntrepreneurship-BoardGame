@@ -1,7 +1,7 @@
 # Software Entrepreneurship - Board Game
 
 # Title: A Lag in Time
-Jan 2025 - Feb 2025
+January 2025 - April 2025
 
 - Designed and developed a fully functional narrative-driven cooperative board game
   - Original time-travel and puzzle-solving mechanics, including "anomaly" and "Time-Seer" systems
